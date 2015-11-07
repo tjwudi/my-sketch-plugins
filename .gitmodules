@@ -4,3 +4,6 @@
 [submodule "sketch-measure"]
 	path = sketch-measure
 	url = git@github.com:utom/sketch-measure.git
+[submodule "Fluid-for-Sketch"]
+	path = Fluid-for-Sketch
+	url = git@github.com:matt-curtis/Fluid-for-Sketch.git
