@@ -1,0 +1,6 @@
+[submodule "CSSketch"]
+	path = CSSketch
+	url = git@github.com:JohnCoates/CSSketch.git
+[submodule "sketch-measure"]
+	path = sketch-measure
+	url = git@github.com:utom/sketch-measure.git
